@@ -1,1 +1,2 @@
-# flutter_colorpicker
+# flutter_color_picker
+flutter_color_picker
