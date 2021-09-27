@@ -332,7 +332,7 @@ class _ColorPickerLabelState extends State<ColorPickerLabel> {
                 item,
                 style: Theme.of(context)
                     .textTheme
-                    .body1
+                    .subtitle1
                     .copyWith(fontWeight: FontWeight.bold, fontSize: 16.0),
               ),
               SizedBox(height: 10.0),
